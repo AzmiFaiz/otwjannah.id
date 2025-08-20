@@ -14,7 +14,7 @@ const Footer = () => (
             className="h-16 w-auto mb-4"
           />
           <a 
-            href="https://maps.google.com/?q=Venue+On+The+Way+to+Jannah" 
+            href="https://maps.app.goo.gl/rN57mzCSi7Gqm1Md7" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-sm text-[#C3BEA1] hover:text-[#e2b86a] transition-colors duration-200 text-center md:text-left mb-2"
